@@ -1,0 +1,1 @@
+cat("Hello extraterrestrials. We wish peace between us. What statistical techniques do you use? How old are you? How old is everything? Who else exists? Where is everyone? What can we offer you? What is the proof for the Reimann hypothesis? Do we have creators? We are here.")
